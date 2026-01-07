@@ -1,8 +1,12 @@
 /*
-*
-*
-*
-*
+
+Exercise 7: Read an ASCII-encoded string
+This code prompts the user to enter three comma-separated integers. 
+These integers are in turn used to control the RGB value of an RGB LED.
+
+Created 07 jan 2026
+by Anssi Sohlman and Amal Almis
+
 */
 
 // Following pins are PWM
