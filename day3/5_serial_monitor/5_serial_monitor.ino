@@ -1,8 +1,15 @@
-/*
-*
-* This is used for exercises 5b-5f
-*
-*/
+\*
+  * @file 5_serial_monitor.ino
+  *
+  *
+  *
+  *
+  *
+  *
+  *
+  *
+  *
+*\
 
 int incomingByte = 0;
 
