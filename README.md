@@ -1,4 +1,4 @@
-# Exercises in the course 34338_exercises
+# Exercises in the course 34338 Telecommunication
 *Doxygen has not been implemented yet for these exercises yet*
 
 ## Structure
@@ -9,3 +9,4 @@ The Arduino sketches are located in the folder `/day<x>` and are numbered accord
 
 ### Documentation
 The documentation for each sketch (answers to questions) can be found in the folder `/day<x>`. Like the exercises they are also numbered, but they have been appended with `_doc`.
+
