@@ -1,5 +1,5 @@
-# Exercises in the course 34338 Telecommunication
-*Doxygen has not been implemented yet for these exercises yet.*
+# Exercises in the course 34338
+*Doxygen has not been implemented yet for these exercises yet. Please ignore the folder `/docs` as it is related to Doxygen!*
 
 ## Structure
 Under the folder of a specific day, e.g. `/day<x>`, all exercises related to day x can be found.
@@ -9,5 +9,7 @@ The Arduino sketches are located in the folder `/day<x>` and are numbered accord
 
 ### Documentation
 The documentation for each sketch (answers to questions) can be found in the folder `/day<x>`. Like the exercises they are also numbered, but they have been appended with `_doc`.
+
+
 
 
