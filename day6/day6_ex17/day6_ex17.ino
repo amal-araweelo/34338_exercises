@@ -7,7 +7,7 @@ circuit: an ESP8266 with:
 * A led connected to D2
 
 Created 12 jan 2026
-by Anssi Sohlman
+by Anssi Sohlman and Amal Almis
 */
 
 #include <ESP8266WiFi.h>
